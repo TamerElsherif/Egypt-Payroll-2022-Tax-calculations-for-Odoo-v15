@@ -25,7 +25,8 @@ Condition Based on	Always True
 **Computation**
 Amount Type	Python Code
   
-**Python Code	**
+**Python Code**
+
 result=0
 Duration=1
 gross=contract.wage
