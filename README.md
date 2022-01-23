@@ -8,7 +8,7 @@ Author: **Tamer ElSherif**
        
         17 Jan 2022
         
-        **How to add in Odoo Payroll v15 or Online**
+**How to add in Odoo Payroll v15 or Online**
 
 Go to:
 *  Configuration
