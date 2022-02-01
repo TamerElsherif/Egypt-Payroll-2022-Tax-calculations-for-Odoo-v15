@@ -54,3 +54,11 @@ elif TAXABLE > 600000 :
   result = -(Level8_tax + 45000+28000 + 2250 + 1500 +375+ (TAXABLE - 400000)*0.25 )/12
 else:
   result = 0 
+
+
+
+
+Odoo Egypt Payroll Python code January 2022 for Odoo online Odoo Payroll V15 Odoo Payroll V14 Odoo Payroll V13 Odoo Payroll V12
+Odoo Egypt Payroll Calculations module 2021
+Odoo Egypt Payroll Calculations module 2022
+Github Odoo Egypt Payroll customization
